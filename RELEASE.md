@@ -6,3 +6,5 @@ How to make a release
   ```
   mvn release:clean release:prepare release:perform
   ```
+
+* Push all changes
