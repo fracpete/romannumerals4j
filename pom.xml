@@ -5,7 +5,7 @@
 
   <groupId>com.github.fracpete</groupId>
   <artifactId>romannumerals4j</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <packaging>jar</packaging>
 
   <parent>
@@ -89,7 +89,7 @@
     <connection>scm:git:https://github.com/waikato/romannumerals4j</connection>
     <developerConnection>scm:git:https://github.com/waikato/romannumerals4j</developerConnection>
     <url>https://github.com/waikato/romannumerals4j</url>
-    <tag>HEAD</tag>
+    <tag>romannumerals4j-0.0.1</tag>
   </scm>
 
   <dependencies>
